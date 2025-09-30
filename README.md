@@ -5,7 +5,7 @@ Este repositorio contiene los ejercicios 7, 8 y 9 implementados en C# por Alan.
 
 ## Ejercicios incluidos
 
-### Ejercicio 7: AnÃlisis de Calificaciones
+### Ejercicio 7: Analisis de Calificaciones
 - **Objetivo**: Analizar una tabla de calificaciones de 12 alumnos con 3 parciales cada uno
 - **Funcionalidades**:
   - Calcular promedio de cada alumno
@@ -58,4 +58,5 @@ csc Ejercicio9.cs && Ejercicio9.exe
 
 ## Autor
 Alan - Rama: Alan-ejercicios-7-9
+
 
