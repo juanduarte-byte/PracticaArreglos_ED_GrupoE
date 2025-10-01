@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\Arreglos.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\Arreglos.sourcelink.json
+C:\Users\angel\OneDrive\Desktop\Arreglos\bin\Debug\net8.0\Arreglos.exe
+C:\Users\angel\OneDrive\Desktop\Arreglos\bin\Debug\net8.0\Arreglos.deps.json
+C:\Users\angel\OneDrive\Desktop\Arreglos\bin\Debug\net8.0\Arreglos.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Arreglos\bin\Debug\net8.0\Arreglos.dll
+C:\Users\angel\OneDrive\Desktop\Arreglos\bin\Debug\net8.0\Arreglos.pdb
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\Arreglos.dll
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\refint\Arreglos.dll
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\Arreglos.pdb
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\Arreglos.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\Arreglos\obj\Debug\net8.0\ref\Arreglos.dll

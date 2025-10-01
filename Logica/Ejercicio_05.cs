@@ -3,8 +3,8 @@ using System;
 // Implementación de la lógica del Ejercicio 5
 public static class Ejercicio5
 {
-    private const int FILAS = 5;
-    private const int COLUMNAS = 10;
+    public const int FILAS = 5;
+    public const int COLUMNAS = 10;
     
     // Clase POO para encapsular la Salida del Proceso (similar a un DTO)
     public class ResultadosEstadisticos
