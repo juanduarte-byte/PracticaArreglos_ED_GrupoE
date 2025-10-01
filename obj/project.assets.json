@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\juanm\\.nuget\\packages\\": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanm\\UTM\\4cuatri\\estructuras_de_datos\\parcial1\\PracticaArreglos_ED_GrupoE\\PracticaArreglosGrupoE.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Desktop\\arreglos\\PracticaArreglos_ED_GrupoE\\PracticaArreglosGrupoE.csproj",
       "projectName": "PracticaArreglosGrupoE",
-      "projectPath": "C:\\Users\\juanm\\UTM\\4cuatri\\estructuras_de_datos\\parcial1\\PracticaArreglos_ED_GrupoE\\PracticaArreglosGrupoE.csproj",
-      "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanm\\UTM\\4cuatri\\estructuras_de_datos\\parcial1\\PracticaArreglos_ED_GrupoE\\obj\\",
+      "projectPath": "C:\\Users\\angel\\OneDrive\\Desktop\\arreglos\\PracticaArreglos_ED_GrupoE\\PracticaArreglosGrupoE.csproj",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angel\\OneDrive\\Desktop\\arreglos\\PracticaArreglos_ED_GrupoE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -43,8 +43,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
