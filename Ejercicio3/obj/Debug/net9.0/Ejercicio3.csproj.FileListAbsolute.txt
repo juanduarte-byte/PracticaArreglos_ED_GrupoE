@@ -1,0 +1,15 @@
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\bin\Debug\net9.0\Ejercicio3.exe
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\bin\Debug\net9.0\Ejercicio3.deps.json
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\bin\Debug\net9.0\Ejercicio3.runtimeconfig.json
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\bin\Debug\net9.0\Ejercicio3.dll
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\bin\Debug\net9.0\Ejercicio3.pdb
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\Ejercicio3.sourcelink.json
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\Ejercicio3.dll
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\refint\Ejercicio3.dll
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\Ejercicio3.pdb
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\Ejercicio3.genruntimeconfig.cache
+C:\Users\juanm\UTM\4cuatri\estructuras_de_datos\parcial1\PracticaArreglos_ED_GrupoE\Ejercicio3\obj\Debug\net9.0\ref\Ejercicio3.dll
