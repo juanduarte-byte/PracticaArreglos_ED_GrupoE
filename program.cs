@@ -12,17 +12,15 @@ class Program
     static void MostrarMenuPrincipal()
     {
         string opcion;
-        do
+        while (true)
         {
             Console.Clear();
             Console.WriteLine("╔═══════════════════════════════════════════╗");
             Console.WriteLine("║      MENÚ DE OPCIONES - PRÁCTICA ARREGLOS ║");
             Console.WriteLine("╚═══════════════════════════════════════════╝");
-            // Implementar un menú de opciones para listar de forma ordenada los nombres
-            Console.WriteLine("1. Matriz de Identidad (Ejercicio 4)");
-            Console.WriteLine("2. Estadísticas de Matriz 5x10 (Ejercicio 5)");
-            Console.WriteLine("3. Análisis de Ventas (Ejercicio 6)");
-            Console.WriteLine("6. Salir"); // Menú ordenado y con opción de Salir
+            Console.WriteLine("4. Matriz de Identidad (Ejercicio 4)");
+            Console.WriteLine("5. Estadísticas de Matriz 5x10 (Ejercicio 5)");
+            Console.WriteLine("6. Análisis de Ventas (Ejercicio 6)");
             Console.WriteLine("---------------------------------------------");
             Console.Write("Seleccione una opción: ");
             opcion = Console.ReadLine();
@@ -31,28 +29,21 @@ class Program
             {
                 switch (opcion)
                 {
-                    case "1": EjecutarEjercicio4(); break;
-                    case "2": EjecutarEjercicio5(); break;
-                    case "3": EjecutarEjercicio6(); break;
-                    case "6": Console.WriteLine("\nSaliendo del programa. ¡Gracias!"); break;
+                    case "4": EjecutarEjercicio4(); break;
+                    case "5": EjecutarEjercicio5(); break;
+                    case "6": EjecutarEjercicio6(); break;
                     default: Console.WriteLine("❌ Opción no válida. Por favor, intente con una de las opciones listadas."); break;
                 }
             }
-            // Captura de excepción general para cualquier fallo inesperado (validar excepciones)
             catch (Exception ex)
             {
                 Console.WriteLine($"\n🚨 Ocurrió un error inesperado durante la ejecución: {ex.Message}");
                 Console.WriteLine("Verifique los datos de entrada o contacte al profesor.");
             }
 
-            // Validar que se ejecuten cada uno sin salir y volver a ejecutar todo el proyecto.
-            if (opcion != "6")
-            {
-                Console.WriteLine("\nPresione cualquier tecla para volver al menú...");
-                Console.ReadKey();
-            }
-
-        } while (opcion != "6");
+            Console.WriteLine("\nPresione cualquier tecla para volver al menú...");
+            Console.ReadKey();
+        }
     }
 
     // --- Ejecución de Ejercicio 4 ---

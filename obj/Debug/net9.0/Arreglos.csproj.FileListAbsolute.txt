@@ -1,0 +1,15 @@
+C:\arreglos\MiProyectoFinal\bin\Debug\net9.0\Arreglos.exe
+C:\arreglos\MiProyectoFinal\bin\Debug\net9.0\Arreglos.deps.json
+C:\arreglos\MiProyectoFinal\bin\Debug\net9.0\Arreglos.runtimeconfig.json
+C:\arreglos\MiProyectoFinal\bin\Debug\net9.0\Arreglos.dll
+C:\arreglos\MiProyectoFinal\bin\Debug\net9.0\Arreglos.pdb
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\Arreglos.AssemblyInfoInputs.cache
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\Arreglos.AssemblyInfo.cs
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\Arreglos.sourcelink.json
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\Arreglos.dll
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\refint\Arreglos.dll
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\Arreglos.pdb
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\Arreglos.genruntimeconfig.cache
+C:\arreglos\MiProyectoFinal\obj\Debug\net9.0\ref\Arreglos.dll
